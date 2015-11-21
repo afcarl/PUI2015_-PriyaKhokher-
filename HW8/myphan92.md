@@ -4,8 +4,7 @@ Hi,
 3. Your legend is not in a box, for moment I thought those two were also points on the plot
 4. I think you gave an empty space in the initial part to show outliers, if they were not important , then I would suggest to shift the graph to the left. Also, the points get merged down below, so you can increase the y-axis ticks as all fall below 100000 seconds, which can be any value. You maximum data is down there, but no means to compare it, if a user wants to . 
 5. You have made it 3d, which is good, and have tried to keep it below 7 elements, which is also a good.
-
 6. Again, down there, the two datasets of male and female are superimposed and I can not see the male rider points at all, to guage their tripduration. You can use alpha to change to transparency, and even check out different marker styles.
 7. For a plot like this, even a bar plot would have worked fine,I think, you can always try and see. All in all - GOOD!
 Here is your plot :
-![Alt text]('https://github.com/priyakhokher/PUI2015_-PriyaKhokher-/blob/master/HW8/myphan92.png')
+![Alt text]('https://github.com/priyakhokher/PUI2015_-PriyaKhokher-/blob/master/HW8/mypahn92.png')
