@@ -1,0 +1,12 @@
+On performing two clustering algorithms, namely K-Means and Agglomerative clustering , 
+we observe that Brooklyn and Queens are the areas with steady increase in number of establishments.
+While areas between queens and brooklyn as well as most of Staten Island have shown erratic behaviour but now are gradually increasing 
+their no. of establishments.
+While popular small parts of all boroughs exhibit a spike in 1994, while a sharp decrease in the later years, reaching a constant and then 
+increasing slightly later in 2012.
+While Staten island shows erratic behaviour in the initial years and subsequent increase in the later years- post 2005 due to 
+Wall Street growth maybe.
+
+Both the algorithms clustered in almost similar way, 
+except that Long Island gets clustered in a different way, showing Long Island parks increasing establsihments in Agglomerative and erratic
+trend in K-means.
