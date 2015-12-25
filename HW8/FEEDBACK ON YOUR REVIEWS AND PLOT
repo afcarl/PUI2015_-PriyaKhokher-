@@ -1,0 +1,75 @@
+very good job on the reviews! 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+3D does not help clarity: the height of the three classes is hard to compare while difference between the years are negligible, effectively undetectable by eye (which is why you needed the number at the top)
+
+nicely color blind compliant
+
+the transparency helps readability avoiding obstruction
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+jjhall77
+============
+
+=======
+
+tick and axis labels are too small
+
+the colors indicate the structure in the data nicely but the three shades are not distinguishable by people affected by the most common color blind variety
+
+in general the default 3 datapoints in the legend should be substitute with a single point, as they are reduntant, but in this case since the datapoints are small to allow to see the overlapping structure (presumably) the three datapoints are justified. 
+
+10^0 should be replaced with 1, 10^1 with 10
+
+
+myphan92
+============
+
+
+the choice of plotting data instead of a histogram is esthetically appealing but largely compromises readability and causes ambiguity
+
+the datapoints hide a pattern in the data: the age increases more significantly for women, peaking around 1980, but it is hard to tell.
+
+the green foreground datapoints hide the background blue datapoints -> confusion and ambiguity. 
+
+color are compliant with most color blind prescriptions
+
+the datapoints without transparency or edges blend at the bottom. it is not a crucial problem since this plot is not meant to be read point by point however.
+
+
+tick labels too small
+
+title to verbose: that level of description belongs to the caption. title should be succinct
+
+
+
+
+
+seuen
+============
+
+
+the title should be full sentences, not underscored words
+
+the y axis is ambiguous (Rate of what?) and lacks units
+
+the x axis lacks units Ldmk is not explained
+
+the legend does not need a title but if you do choose to use one it should be a descriptive title, while "type" is entirely ambiguous
+
+
+the choice of plotting every datapoint does not allow the eye to understand the structure in the data, sometimes it works, but in this case it does not. 
+
+if you wish to put a line at 0x0 for a 2 panel plot it should be in both plots, unless it is in the same position for both, which is not the case here. 
+
+colors comply with color blindness prescriptions nicely
+
+the grid helps readability
+
+the location of the legend is sensible in that it doesn't seem to cover datapoints
